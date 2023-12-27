@@ -1,6 +1,6 @@
 ---
 title: hugging face demo
-emoji: :grinning:
+emoji: grinning
 colorFrom: blue
 colorTo: red
 sdk: gradio
